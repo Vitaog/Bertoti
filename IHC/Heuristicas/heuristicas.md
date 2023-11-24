@@ -36,3 +36,14 @@
 
 - Na sexta imagem, observa-se que o site disponibiliza uma extensa documentação online, suporte da comunidade e tutoriais, visando auxiliar os usuários na utilização eficaz da ferramenta.
 
+## 7) Controle e Liberdade do Usuário
+
+![Imagem Controle e Liberdade do Usuário](imagem7.png)
+
+- Na sétima imagem, é possível observar que os usuários têm a capacidade de personalizar seus painéis, criar filtros e configurar notificações, fornecendo algum grau de controle e liberdade.
+
+## 8) Flexibilidade e Eficiência de Uso
+
+![Imagem Flexibilidade e Eficiência de Uso](imagem8.png)
+
+- Na oitava imagem, observa-se que o site oferece atalhos de teclado e recursos avançados para usuários mais experientes, promovendo eficiência de uso. 
