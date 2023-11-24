@@ -24,11 +24,11 @@
 
 - Na quarta imagem, destaca-se a presença de mecanismos para prevenir erros no site, incluindo confirmações prévias à exclusão de itens e validações durante o preenchimento de formulários.
 
-## 5) Estética e design minimalista
+## 5) Estética e design minimalista e Reconhecimento em Vez de Lembrança
 
-![Imagem Estética e design minimalista](imagem5.png)
+![Imagem Estética e design minimalista e Reconhecimento em Vez de Lembrança](imagem5.png)
 
-- Na quinta imagem, fica evidente que embora o site contenha muitas informações, é projetado para ser funcional e organizado, adotando um design claro e focado. As informações secundárias estão estrategicamente posicionadas em menus e abas.
+- Na quinta imagem, fica evidente que embora o site contenha muitas informações, é projetado para ser funcional e organizado, adotando um design claro e focado. As informações estão estrategicamente posicionadas em menus e abas, ajudando os usuários a reconhecerem as opções disponíveis, minimizando a necessidade de memorização.
 
 ## 6) Ajuda e documentação
 
